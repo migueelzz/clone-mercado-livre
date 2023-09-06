@@ -32,6 +32,14 @@ npm run dev
 
 ```
 
+## Preview
+
+Acesse o projeto: [carrinho de compras](https://shopping-cart-one-rho.vercel.app/)
+
+![image](https://github.com/migueelzz/clone-mercado-livre/assets/74062845/0299c83d-6907-4f29-80af-75452d6d5fa2)
+
+
+
 ## 🛠️ Construído com
 
 React.js, JavaScript, useContext, API Mercado Livre
