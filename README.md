@@ -44,6 +44,6 @@ React.js, JavaScript, useContext, API Mercado Livre
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT license) - veja o arquivo [LICENSE.md](https://github.com/migueelzz/clone-mercado-livre/licenca) para detalhes.
+Este projeto está sob a licença (MIT license) - veja o arquivo [LICENSE.md](https://github.com/migueelzz/clone-mercado-livre/blob/main/LICENSE) para detalhes.
 
 Feito por Miguel Lemes 🚀
