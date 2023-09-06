@@ -42,5 +42,8 @@ React.js, JavaScript, useContext, API Mercado Livre
 * [Node](https://nodejs.org/pt-br/download) - Gerente de Dependência
 * useContext - Hook Gerenciador de estados
 
+## 📄 Licença
+
+Este projeto está sob a licença (MIT license) - veja o arquivo [LICENSE.md](https://github.com/migueelzz/clone-mercado-livre/licenca) para detalhes.
 
 Feito por Miguel Lemes 🚀
