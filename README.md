@@ -38,6 +38,8 @@ Acesse o projeto: [carrinho de compras](https://shopping-cart-one-rho.vercel.app
 
 ![image](https://github.com/migueelzz/clone-mercado-livre/assets/74062845/0299c83d-6907-4f29-80af-75452d6d5fa2)
 
+![clone-mercado-livre](https://github.com/migueelzz/clone-mercado-livre/assets/74062845/d8d3e290-bd4a-4d81-8139-f621d6ec191a)
+
 
 
 ## 🛠️ Construído com
